@@ -1,0 +1,25 @@
+{
+  "name": "voxobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "voxbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteColeman/voxodeustraitbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteColeman/voxodeustraitbot/issues"
+  },
+  "homepage": "https://github.com/SteColeman/voxodeustraitbot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.2",
+    "fetch": "^1.1.0"
+  }
+}
