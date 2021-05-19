@@ -1,1 +1,1 @@
-# voxodeustraitbot
+# VoxoDeus Discord Trait Bot
